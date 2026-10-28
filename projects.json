@@ -1,0 +1,8 @@
+{
+  "ik_devs": {
+    "repo": "interactiveknowledge/ik_devs_drupal_module",
+    "title": "IK Dev Monitoring",
+    "type": "drupal-module",
+    "creator": "Interactive Knowledge"
+  }
+}
